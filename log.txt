@@ -1,0 +1,295 @@
+Reading from the Scenario1.txtfile
+Time: 00m37sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 01m07sJunction B: 1 cars through from B to A , 0 cars waiting on road 7
+Time: 01m07sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 01m09sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 01m40sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 01m40sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 02m10sJunction B: 1 cars through from B to C , 0 cars waiting on road 3
+Time: 02m10sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 02m12sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 02m43sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 03m11sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 03m11sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 03m15sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 03m47sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 03m47sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 04m13sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 04m13sJunction B: 1 cars through from B to A , 2 cars waiting on road 7
+Time: 04m18sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 04m49sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 05m14sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 05m14sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 05m20sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 05m51sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 05m52sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 06m15sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 06m15sJunction B: 1 cars through from B to A , 1 cars waiting on road 7
+Time: 06m23sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 06m24sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 06m55sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 07m18sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 07m18sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 07m27sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 07m58sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 08m19sJunction B: 1 cars through from B to A , 2 cars waiting on road 7
+Time: 08m19sJunction A: 1 cars through from A to Industrail , 2 cars waiting on road 4
+Time: 08m29sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 09m01sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 09m21sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 09m21sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 09m32sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time : 10m00s University:      99Spaces
+              Station:         146Spaces
+              Shopping Centre: 393 Spaces
+              Industrail Park: 992 Spaces
+Time: 10m04sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 10m04sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 10m22sJunction B: 1 cars through from B to A , 2 cars waiting on road 7
+Time: 10m22sJunction A: 1 cars through from A to Industrail , 3 cars waiting on road 4
+Time: 10m35sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 11m07sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 11m24sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 11m24sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 11m40sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 12m11sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 12m11sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 12m25sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 12m25sJunction A: 1 cars through from A to Industrail , 3 cars waiting on road 4
+Time: 12m42sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 13m13sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 13m27sJunction B: 1 cars through from B to A , 2 cars waiting on road 7
+Time: 13m27sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 13m45sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 13m46sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 14m16sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 14m28sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 14m28sJunction A: 1 cars through from A to Industrail , 2 cars waiting on road 4
+Time: 14m48sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 15m19sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 15m21sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 15m29sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 15m29sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 15m50sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 16m22sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 16m30sJunction A: 1 cars through from A to Industrail , 2 cars waiting on road 4
+Time: 16m30sJunction B: 1 cars through from B to A , 4 cars waiting on road 7
+Time: 16m53sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 17m25sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 17m25sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 17m31sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 17m31sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 17m57sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 18m30sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 18m33sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 18m33sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 19m01sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 19m01sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 19m33sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 19m34sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 19m36sJunction B: 1 cars through from B to A , 4 cars waiting on road 7
+Time : 20m04s University:      96Spaces
+              Station:         143Spaces
+              Shopping Centre: 385 Spaces
+              Industrail Park: 986 Spaces
+Time: 20m04sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 20m04sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 20m36sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 20m36sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 20m36sJunction D: 1 cars through from D to University , 1 cars waiting on road 10
+Time: 20m38sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 21m07sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 21m07sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 21m37sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 21m39sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 21m39sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 21m39sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 22m11sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 22m38sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 22m40sJunction B: 1 cars through from B to A , 3 cars waiting on road 7
+Time: 22m43sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 23m14sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 23m39sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 23m42sJunction B: 1 cars through from B to C , 0 cars waiting on road 3
+Time: 23m45sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 24m17sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 24m41sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 24m43sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 24m48sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 25m19sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 25m42sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 25m44sJunction B: 1 cars through from B to A , 5 cars waiting on road 7
+Time: 25m50sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 26m21sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 26m44sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 26m46sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 26m52sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 27m24sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 27m25sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 27m45sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 27m48sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 27m56sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 28m28sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 28m28sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 28m47sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 28m49sJunction B: 1 cars through from B to A , 7 cars waiting on road 7
+Time: 28m59sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 29m30sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 29m50sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 29m50sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 30m01sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time : 30m03s University:      96Spaces
+              Station:         138Spaces
+              Shopping Centre: 376 Spaces
+              Industrail Park: 979 Spaces
+Time: 30m32sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 30m52sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 30m52sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 31m04sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 31m36sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 31m54sJunction B: 1 cars through from B to A , 7 cars waiting on road 7
+Time: 31m54sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 32m08sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 32m39sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 32m40sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 32m55sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 32m55sJunction B: 1 cars through from B to C , 2 cars waiting on road 3
+Time: 33m11sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 33m11sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 33m43sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 33m56sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 33m56sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 34m15sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 34m46sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 34m57sJunction B: 1 cars through from B to A , 8 cars waiting on road 7
+Time: 34m57sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 35m18sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 35m18sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 35m49sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 35m49sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 35m58sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 35m59sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 36m22sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 36m53sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 37m00sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 37m00sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 37m25sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 37m57sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 38m01sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 38m01sJunction B: 1 cars through from B to A , 8 cars waiting on road 7
+Time: 38m28sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 39m00sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 39m02sJunction B: 1 cars through from B to C , 0 cars waiting on road 3
+Time: 39m02sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 39m32sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time : 40m02s University:      95Spaces
+              Station:         134Spaces
+              Shopping Centre: 367 Spaces
+Time: 40m03sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+              Industrail Park: 973 Spaces
+Time: 40m03sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 40m03sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 40m03sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 40m35sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 41m04sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 41m04sJunction B: 1 cars through from B to A , 8 cars waiting on road 7
+Time: 41m06sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 41m37sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 42m06sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 42m06sJunction B: 1 cars through from B to C , 0 cars waiting on road 3
+Time: 42m08sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 42m39sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 43m07sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 43m07sJunction A: 1 cars through from A to Industrail , 2 cars waiting on road 4
+Time: 43m10sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 43m10sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 43m41sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 43m41sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 44m09sJunction B: 1 cars through from B to A , 9 cars waiting on road 7
+Time: 44m09sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 44m12sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 44m44sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 44m44sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 45m12sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 45m12sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 45m17sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 45m48sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 46m14sJunction B: 1 cars through from B to A , 8 cars waiting on road 7
+Time: 46m14sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 46m20sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 46m20sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time: 46m52sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 47m16sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 47m16sJunction B: 1 cars through from B to C , 0 cars waiting on road 3
+Time: 47m24sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 47m56sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 47m56sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 48m17sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 48m17sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 48m27sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 48m58sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 49m19sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 49m19sJunction B: 1 cars through from B to A , 8 cars waiting on road 7
+Time: 49m30sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 49m30sJunction D: 1 cars through from D to Station , 0 cars waiting on road 10
+Time : 50m00s University:      92Spaces
+              Station:         130Spaces
+              Shopping Centre: 359 Spaces
+              Industrail Park: 966 Spaces
+Time: 50m01sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 50m01sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 50m21sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 50m21sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 50m32sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 51m03sJunction C: 1 cars through from C to Shopping Centre , 0 cars waiting on road 6
+Time: 51m24sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 51m24sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 51m34sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 52m05sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 52m26sJunction B: 1 cars through from B to A , 10 cars waiting on road 7
+Time: 52m26sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 52m37sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 53m08sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 53m08sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 53m27sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 53m27sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 53m39sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 53m39sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 54m11sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 54m11sJunction D: 1 cars through from D to Station , 1 cars waiting on road 10
+Time: 54m28sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 54m28sJunction B: 1 cars through from B to A , 1 cars waiting on road 5
+Time: 54m42sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 54m42sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 55m15sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 55m29sJunction B: 1 cars through from B to A , 10 cars waiting on road 7
+Time: 55m29sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 4
+Time: 55m46sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 56m18sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 56m18sJunction D: 1 cars through from D to University , 1 cars waiting on road 10
+Time: 56m30sJunction A: 1 cars through from A to B , 1 cars waiting on road 1
+Time: 56m30sJunction B: 1 cars through from B to C , 2 cars waiting on road 3
+Time: 56m49sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 56m49sJunction C: 1 cars through from  C to D , 1 cars waiting on road 8
+Time: 57m21sJunction C: 1 cars through from  C to D , 0 cars waiting on road 6
+Time: 57m21sJunction D: 1 cars through from D to University , 0 cars waiting on road 10
+Time: 57m26s - C: 0 cars , 1 cars waiting on road 8 GRIDLOCK
+Time: 57m32sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 57m32sJunction B: 1 cars through from B to C , 1 cars waiting on road 5
+Time: 57m52sJunction C: 1 cars through from C to B , 1 cars waiting on road 8
+Time: 58m23sJunction C: 1 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Time: 58m25s - C: 0 cars , 1 cars waiting on road 8 GRIDLOCK
+Time: 58m34sJunction B: 1 cars through from B to A , 10 cars waiting on road 7
+Time: 58m34sJunction A: 1 cars through from A to Industrail , 1 cars waiting on road 1
+Time: 59m35sJunction B: 1 cars through from B to C , 1 cars waiting on road 3
+Time: 59m36sJunction A: 1 cars through from A to Industrail , 0 cars waiting on road 4
+Time: 60m00sJunction C: 0 cars through from C to Shopping Centre , 1 cars waiting on road 8
+Program end
+North created 84cars
+East created 22cars
+South created 32cars
+Vehicles on queue 18
+ University: 9 Cars parked , average journey time 31m30s
+ Station: 26 Cars parked , average journey time 31m59s
+ Shopping Centre: 45 Cars parked , average journey time 28m08s
+ Industrail Park: 40 Cars parked , average journey time 28m44s
